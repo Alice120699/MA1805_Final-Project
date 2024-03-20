@@ -23,5 +23,5 @@ AESTHETIC
 aesthetic approach
 Tile Map Adventure aims to be reminiscent of classic adventure and puzzle games of the past through its use of pixel style, while incorporating contemporary design principles. And placing the view at the center of the player allows players to have a richer dynamic gaming experience. 
 
-Is there anything else you would like to add?
+IS THERE ANYTHING YOU WOULD LIKE TO ADD?
 If I had more time, resources, and teammates, I would expand Tile Map Adventure by adding more levels, each with its own unique theme and set of puzzles. Another goal is to refine the storyline and give players a greater impact on the world and its outcomes. I also considered a multiplayer component where players could cooperate or compete to solve puzzles. Further development will benefit from a deeper understanding of the technology, allowing players to have features such as dynamic lighting, weather effects and more complex puzzle mechanics.
